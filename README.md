@@ -11,9 +11,9 @@ Other resolution can be added manually (if anyone want to).
 # [Download Exe file](https://www.mediafire.com/file/rasj2vyopbe8js4/AylBot.exe/file)
 
 # Instructions
-1. Screen resolution must be: "1366 x 768"(best choice!) OR "1920 x 1080" (Go to "Display Settings" and change "Display Resolution")
-	a. If resolution is "1366 x 768" make sure the first option of "Scale and Layout" is at 100%
-	b. If resolution is "1920 x 1080" make sure the first option of "Scale and Layout" is at 125%
+1. Screen resolution must be: "1366 x 768"(best choice!) OR "1920 x 1080" (Go to "Display Settings" and change "Display Resolution"):
+	- If resolution is "1366 x 768" make sure the first option of "Scale and Layout" is at 100%
+	- If resolution is "1920 x 1080" make sure the first option of "Scale and Layout" is at 125%
 
 2. Go to taskbar settings and enable the option: "Automatically hide the taskbar in desktop mode"
 
